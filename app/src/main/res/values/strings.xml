@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonRestAPI</string>
+    <string name="error_loading_posts">Error loading posts</string>
+    <string name="unable_to_fetch_the_post_details_please_try_it_again">Unable to fetch the post details !! please try it again</string>
+    <string name="title">Title :</string>
+    <string name="description">Description :</string>
+</resources>
